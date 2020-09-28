@@ -9,23 +9,37 @@ Here is the link to the analysis created in Tableau
 ![Tableau results 1](resources/1.PNG)
 We can see through this analysis that the majority of riders in New York in August is male
 
+
+
 ![Tableau results 2](resources/2.PNG)
 We can see through this analysis that the most popular checkout time for users are between 4-6 minutes
+
+
 
 ![Tableau results 3](resources/3.PNG)
 We can see through this analysis that the most popular checkout time for users are between 4-6 minutes and are made by males
 
+
+
 ![Tableau results 4](resources/4.PNG)
 We can see through this analysis that trips are most frequently made on thursdays between 5-7 PM
+
+
 
 ![Tableau results 5](resources/5.PNG)
 We can see through this analysis that trips are most frequently made on thursdays between 5-7 PM and are made by males
 
+
+
 ![Tableau results 6](resources/6.PNG)
 We can see through this analysis that trips are most frequently made on thursdays by male subscribers
 
+
+
 ![Tableau results 7](resources/7.PNG)
 We can see through this analysis that overall, trips are most frequently made on thursdays between 5-7 PM
+
+
 
 ## Summary
 
